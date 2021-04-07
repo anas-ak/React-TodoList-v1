@@ -1,3 +1,7 @@
+<img src="todo1.gif">
+<p>Updated: April 7, 2021</p>
+
+
 # Important Notes
 
 <ol>
