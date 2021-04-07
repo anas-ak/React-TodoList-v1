@@ -1,0 +1,46 @@
+body {
+  padding: 50px;
+  background-color: #22a5e7;
+  font-family: sans-serif;
+}
+
+h2 {
+  font-family: Arial;
+  color: white;
+  font-size: 30px;
+}
+
+footer {
+  font-family: monospace;
+  font-size: 16px;
+  color: white;
+  bottom: 0;
+  right: 10px;
+  position: fixed;
+}
+
+#container {
+  display: flex;
+  justify-content: center;
+}
+
+
+/* THE REACT LOGO*/
+.App-logo {
+  height: 8vmin;
+  pointer-events: none;
+  position: relative;
+  left: -830px;
+  top: -40px;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg);   }
+  to   { transform: rotate(360deg); }
+}
