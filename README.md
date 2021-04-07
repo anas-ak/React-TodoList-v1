@@ -1,3 +1,11 @@
+# Important Notes
+
+<ol>
+  <li>import FlipMove</li>
+  <li>Lots of comments so that everything makes sense</li>
+  <li>Next step: Add a delete icon to the end of each list-item</li>
+</ol>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
